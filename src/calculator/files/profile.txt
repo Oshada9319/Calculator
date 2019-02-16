@@ -1,1 +1,1 @@
-Log Function
+<span> Git is great.</span>
